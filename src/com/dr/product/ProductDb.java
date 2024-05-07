@@ -40,6 +40,12 @@ public class ProductDb {
 		
 		}
 		
+//		public Product searchProduct(int id){
+//			Product p= null;
+//			for(int )
+//			
+//		}
+		
 		public boolean deleteProduct(int id) {
 			boolean isDeleted=false;
 			for(int i=0;i<prodarr.length;i++) {
